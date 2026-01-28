@@ -93,3 +93,10 @@ This dashboard is based on self-reported survey data and is intended for educati
 
 ## Dashboard Preview
 ![Dashboard Preview](https://github.com/Ajtech27/PowerBI-Student_Mental_Health_Analysis/blob/main/Student%20Mental%20Health%20Screenshot%20.jpg)
+
+---
+
+## 🔗 Related Python Analysis
+This dashboard is based on insights generated from an exploratory data analysis performed in Python.
+
+👉 Python EDA Project: [https://github.com/Ajtech27/Student-Mental-Health-Analysis-Python]
