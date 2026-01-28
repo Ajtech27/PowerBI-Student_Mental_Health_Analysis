@@ -88,3 +88,8 @@ This project uses self-reported survey data to explore the prevalence and patter
 
 ## ⚠️ Disclaimer
 This dashboard is based on self-reported survey data and is intended for educational and analytical purposes only. It does not provide medical diagnoses or replace professional mental health assessments.
+
+---
+
+## Dashboard Preview
+![Dashboard Preview](https://github.com/Ajtech27/PowerBI-Student_Mental_Health_Analysis/blob/main/Student%20Mental%20Health%20Screenshot%20.jpg)
